@@ -1,0 +1,255 @@
+Task: Place the Red on the top Blue.
+Subtasks:
+- Locate the Red block.
+- Grasp the Red block securely with your gripper.
+- Move towards the Blue block while holding the Red block.
+- Position the Red block directly above the Blue block.
+- Carefully lower the Red block onto the Blue block.
+- Release your grip on the Red block, ensuring it is stable on the Blue block.
+- Locate the Red block.
+- Grasp the Red block securely with your gripper.
+- Move towards the Blue block while holding the Red block.
+- Position the Red block to the left of the Blue block.
+- Carefully lower the Red block next to the Blue block.
+- Release your grip on the Red block, ensuring it is stable next to the Blue block.
+- Locate the Red block.
+- Grasp the Red block securely with your gripper.
+- Move towards the Blue block while holding the Red block.
+- Position the Red block to the right of the Blue block.
+- Carefully lower the Red block next to the Blue block.
+- Release your grip on the Red block, ensuring it is stable next to the Blue block.
+- Locate the Red block.
+- Grasp the Red block securely with your gripper.
+- Adjust the position of the gripper to hold the Red block diagonally.
+- Move towards the Blue block while holding the Red block diagonally.
+- Position the Red block diagonally above the Blue block.
+- Carefully lower the Red block diagonally onto the Blue block.
+- Release your grip on the Red block, ensuring it is stable on the Blue block.
+Task: Place the Red on the top Green.
+Subtasks:
+- Locate the red block.
+- Grasp the red block securely with your gripper.
+- Move towards the green block while holding the red block.
+- Position the red block directly above the green block.
+- Carefully lower the red block onto the green block.
+- Release your grip on the red block, ensuring it is stable on the green block.
+- Locate the red block.
+- Grasp the red block securely with your gripper.
+- Identify the location of the green block.
+- Move towards the green block while holding the red block.
+- Position the red block to the left of the green block.
+- Carefully release the red block next to the green block.
+- Ensure the red block is stable in its new position.
+- Locate the red block.
+- Grasp the red block securely with your gripper.
+- Identify the green block to the right of the red block.
+- Move towards the green block while holding the red block.
+- Position the red block to the right of the green block.
+- Carefully release the red block from your gripper onto the right side of the green block.
+- Ensure the red block is stable on the right side of the green block before retracting your gripper.
+- Locate the Red block.
+- Grasp the Red block securely with your gripper.
+- Move towards the Green block while holding the Red block.
+- Position the Red block diagonally above the Green block.
+- Carefully lower the Red block onto the Green block.
+- Release your grip on the Red block, ensuring it is stable on the Green block.
+- Locate the Red block.
+- Grasp the Red block securely with your gripper.
+- Move towards the Yellow block while holding the Red block.
+- Position the Red block directly above the Yellow block.
+- Carefully lower the Red block onto the Yellow block.
+- Release your grip on the Red block, ensuring it is stable on the Yellow block.
+- Locate the red block.
+- Grasp the red block securely with your gripper.
+- Identify the yellow block.
+- Move towards the yellow block while holding the red block.
+- Position the red block to the left of the yellow block.
+- Carefully release the red block next to the yellow block.
+- Ensure the red block is stable in its new position.
+- Locate the red block.
+- Grasp the red block securely with your gripper.
+- Identify the yellow block to the right.
+- Move towards the yellow block while holding the red block.
+- Position the red block to the right of the yellow block.
+- Carefully release the red block next to the yellow block.
+- Ensure the red block is stable next to the yellow block before releasing your grip.
+- Locate the Red block.
+- Grasp the Red block securely with your gripper.
+- Move towards the Yellow block while holding the Red block.
+- Position the Red block diagonally above the Yellow block.
+- Carefully lower the Red block onto the Yellow block.
+- Release your grip on the Red block, ensuring it is stable on the Yellow block.
+- Locate the Red block.
+- Grasp the Red block securely with your gripper.
+- Move towards the Gray block while holding the Red block.
+- Position the Red block directly above the Gray block.
+- Carefully lower the Red block onto the Gray block.
+- Release your grip on the Red block, ensuring it is stable on the Gray block.
+- Locate the red block.
+- Grasp the red block securely with your gripper.
+- Identify the gray block to the left.
+- Move towards the gray block while holding the red block.
+- Position the red block to the left of the gray block.
+- Carefully release the red block next to the gray block.
+- Ensure the red block is stable next to the gray block before releasing your grip.
+- Locate the red block.
+- Grasp the red block securely with your gripper.
+- Identify the gray block to the right of the red block.
+- Move towards the gray block while holding the red block.
+- Position the red block directly to the right of the gray block.
+- Carefully release your grip on the red block, ensuring it is stable next to the gray block.
+- Locate the Red block.
+- Grasp the Red block securely with your gripper.
+- Move towards the Gray block while holding the Red block.
+- Position the Red block diagonally above the Gray block.
+- Carefully lower the Red block onto the Gray block.
+- Release your grip on the Red block, ensuring it is stable on the Gray block.
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Move towards the green block while holding the blue block.
+- Position the blue block directly above the green block.
+- Carefully lower the blue block onto the green block.
+- Release your grip on the blue block, ensuring it is stable on the green block.
+Task: Place the Blue to the left Green
+Subtasks:
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Identify the position of the green block.
+- Move towards the left side of the green block while holding the blue block.
+- Position the blue block to the left of the green block.
+- Carefully release your grip on the blue block, ensuring it is stable next to the green block.
+Task: Place the Blue to the right Green
+Subtasks:
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Move towards the green block while holding the blue block.
+- Position the blue block to the right of the green block.
+- Carefully release your grip on the blue block, ensuring it is stable next to the green block.
+Task: Place the Blue diagonally Green
+Subtasks:
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Identify the position of the green block.
+- Move towards the green block while holding the blue block.
+- Position the blue block diagonally above the green block.
+- Carefully lower the blue block onto the green block.
+- Release your grip on the blue block, ensuring it is stable on the green block.
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Move towards the yellow block while holding the blue block.
+- Position the blue block directly above the yellow block.
+- Carefully lower the blue block onto the yellow block.
+- Release your grip on the blue block, ensuring it is stable on the yellow block.
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Identify the yellow block.
+- Move towards the left side of the yellow block while holding the blue block.
+- Position the blue block to the left of the yellow block.
+- Carefully release your grip on the blue block, ensuring it is stable next to the yellow block.
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Move towards the yellow block while holding the blue block.
+- Position the blue block to the right of the yellow block.
+- Carefully release your grip on the blue block, ensuring it is stable to the right of the yellow block.
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Move towards the yellow block while holding the blue block.
+- Position the blue block diagonally above the yellow block.
+- Carefully lower the blue block onto the yellow block.
+- Release your grip on the blue block, ensuring it is stable on the yellow block.
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Move towards the gray block while holding the blue block.
+- Position the blue block directly above the gray block.
+- Carefully lower the blue block onto the gray block.
+- Release your grip on the blue block, ensuring it is stable on the gray block.
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Move towards the gray block while holding the blue block.
+- Position the blue block to the left of the gray block.
+- Carefully release your grip on the blue block, ensuring it is stable next to the gray block.
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Move towards the gray block while holding the blue block.
+- Position the blue block to the right of the gray block.
+- Carefully release your grip on the blue block, ensuring it is stable next to the gray block.
+- Locate the blue block.
+- Grasp the blue block securely with your gripper.
+- Move towards the gray block while holding the blue block.
+- Position the blue block diagonally above the gray block.
+- Carefully lower the blue block onto the gray block.
+- Release your grip on the blue block, ensuring it is stable on the gray block.
+- Locate the Green block.
+- Grasp the Green block securely with your gripper.
+- Move towards the Yellow block while holding the Green block.
+- Position the Green block directly above the Yellow block.
+- Carefully lower the Green block onto the Yellow block.
+- Release your grip on the Green block, ensuring it is stable on the Yellow block.
+Task: Place the Green to the left Yellow.
+Subtasks:
+- Locate the Green block.
+- Grasp the Green block securely with your gripper.
+- Identify the position of the Yellow block.
+- Move towards the left side of the Yellow block while holding the Green block.
+- Position the Green block to the left of the Yellow block.
+- Adjust the position of the Green block if needed for better alignment.
+- Release your grip on the Green block, ensuring it is stable to the left of the Yellow block.
+- Locate the green block.
+- Grasp the green block securely with your gripper.
+- Move towards the yellow block while holding the green block.
+- Position the green block to the right of the yellow block.
+- Carefully release your grip on the green block, ensuring it is stable to the right of the yellow block.
+- Locate the green block.
+- Grasp the green block securely with your gripper.
+- Move towards the yellow block while holding the green block.
+- Position the green block diagonally above the yellow block.
+- Carefully lower the green block onto the yellow block.
+- Release your grip on the green block, ensuring it is stable on the yellow block.
+- Locate the green block.
+- Grasp the green block securely with your gripper.
+- Move towards the gray block while holding the green block.
+- Position the green block directly above the gray block.
+- Carefully lower the green block onto the gray block.
+- Release your grip on the green block, ensuring it is stable on the gray block.
+- Locate the green block.
+- Grasp the green block securely with your gripper.
+- Move towards the gray block while holding the green block.
+- Position the green block to the left of the gray block.
+- Carefully release your grip on the green block, ensuring it is stable to the left of the gray block.
+- Locate the green block.
+- Grasp the green block securely with your gripper.
+- Move towards the gray block while holding the green block.
+- Position the green block to the right of the gray block.
+- Carefully release your grip on the green block, ensuring it is stable next to the gray block.
+Task: Place the Green diagonally Gray.
+Subtasks:
+- Locate the green block.
+- Grasp the green block securely with your gripper.
+- Move towards the gray block while holding the green block.
+- Position the green block diagonally above the gray block.
+- Carefully lower the green block onto the gray block in a diagonal position.
+- Release your grip on the green block, ensuring it is stable in the diagonal position on the gray block.
+- Locate the yellow block.
+- Grasp the yellow block securely with your gripper.
+- Move towards the gray block while holding the yellow block.
+- Position the yellow block directly above the gray block.
+- Carefully lower the yellow block onto the gray block.
+- Release your grip on the yellow block, ensuring it is stable on the gray block.
+- Locate the yellow block.
+- Grasp the yellow block securely with your gripper.
+- Move towards the gray block while holding the yellow block.
+- Position the yellow block to the left of the gray block.
+- Carefully release your grip on the yellow block, ensuring it is stable next to the gray block.
+- Locate the yellow block.
+- Grasp the yellow block securely with your gripper.
+- Move towards the gray block while holding the yellow block.
+- Position the yellow block to the right of the gray block.
+- Carefully release your grip on the yellow block, ensuring it is stable next to the gray block.
+Task: Place the Yellow diagonally Gray
+Subtasks:
+- Locate the Yellow block.
+- Grasp the Yellow block securely with your gripper.
+- Move towards the Gray block while holding the Yellow block.
+- Position the Yellow block diagonally above the Gray block.
+- Carefully lower the Yellow block onto the Gray block in a diagonal position.
+- Release your grip on the Yellow block, ensuring it is stable on the Gray block.
