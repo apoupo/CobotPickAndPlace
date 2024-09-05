@@ -11,5 +11,5 @@ Steps to run:
 3) Modify "alphabet" to display in line 22 of runalphabetTraj.m
 4) Run runAlphabetTraj.m
 
-#Future Implementation:
+# Future Implementation:
 Pick and Place.
